@@ -1,5 +1,5 @@
-# Internet
-# Stanford Hackathon Project 2023
+# INTERN-net: Stanford Hackathon Project 2023
+
 
 ##Steps
 
