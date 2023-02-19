@@ -1,0 +1,31 @@
+
+.form{
+    margin-top: 20px;
+}
+.form label{
+    color:white;
+    font-size: 25px;
+    display: flex;
+    margin: auto;
+}
+
+.form input{
+    margin-left: 5px;
+    border-radius: 10px;
+}
+
+.form input[type = text]{
+    font-size: 18px;
+    text-align: center;
+}
+
+.form input::placeholder{
+    text-align: center;
+    font-size: 18px;
+}
+
+.submitButton{
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+}
